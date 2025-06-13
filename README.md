@@ -12,9 +12,9 @@ Proyek ini bertujuan untuk melakukan **klasifikasi embrio** menggunakan model *d
 
 ## Isi Repository
 
-Dalam repositori ini, terdapat tiga komponen utama:
+Dalam repositori ini, terdapat dua komponen utama:
 
 1.  **Dataset**: Folder ini berisi data yang digunakan untuk melatih dan menguji model klasifikasi embrio.
 2.  **Kode Aplikasi Streamlit**: File Python (`.py`) yang berisi kode untuk menjalankan antarmuka aplikasi.
-3.  **Jupyter Notebook**: Notebook (`.ipynb`) yang memuat seluruh proses *development* awal, mulai dari eksplorasi data hingga pembangunan model, sebelum diimplementasikan ke dalam GUI.
+
 
